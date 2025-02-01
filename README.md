@@ -67,7 +67,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/andre-luiz-031565173" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BqQzl4oWIRI2TP%2BH33lPKug%3D%3D" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://instagram.com/andre2kluiz?igshid=OTk0YzhjMDVlZA==" target="_blank">
