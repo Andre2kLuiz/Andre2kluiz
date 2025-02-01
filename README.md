@@ -80,8 +80,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJyMWg5aW5hbHB4MmY2YjFobHk1YXl4bzJ6MXZ0NTZ4dm90MDN0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgV8Y7bDxsZDCP01eo/giphy.gif"  />
-</div>
+<br clear="both">
+
+<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJyMWg5aW5hbHB4MmY2YjFobHk1YXl4bzJ6MXZ0NTZ4dm90MDN0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgV8Y7bDxsZDCP01eo/giphy.gif"  />
 
 ###
