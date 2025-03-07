@@ -87,7 +87,7 @@
 
 <div align="center">
   <img height="200" src="https://tenor.com/pt-BR/view/pokemon-dragonite-fly-spin-yellow-gif-15558061" alt="GIF" />
-  <a href="https://tenor.com/view/pokemon-dragonite-fly-spin-yellow-gif-15558061"></a>
+  <a href="https://tenor.com/bdrwD.gif"></a>
 </div>
 
 
