@@ -85,6 +85,9 @@
   <img height="200" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" alt="GIF" />
 </div>
 
-<div class="tenor-gif-embed" data-postid="15558061" data-share-method="host" data-aspect-ratio="1.60804" data-width="100%"><a href="https://tenor.com/view/pokemon-dragonite-fly-spin-yellow-gif-15558061">Pokemon Dragonite Sticker</a>from <a href="https://tenor.com/search/pokemon-stickers">Pokemon Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" alt="GIF" />
+</div>
+
 
 ###
