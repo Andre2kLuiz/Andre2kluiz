@@ -81,7 +81,6 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" alt="GIF" />
   <img height="200" src="https://media.tenor.com/WIwUWwq6JpUAAAAi/pokemon-dragonite.gif" alt="GIF" />
 </div>
 
